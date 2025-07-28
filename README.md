@@ -13,3 +13,7 @@ The program standardizes words entered by the user. It can convert uppercase to 
 
 📘 **Text** -->
 The program manages basic student information using structs. For more complex implementations, Java can be used for support.
+
+---
+
+<h2 align="center">🎖️🎖️ Keep coding, keep learning — the bugs will fear you one day 🎖️🎖️</h2>
