@@ -16,4 +16,4 @@ The program manages basic student information using structs. For more complex im
 
 ---
 
-<h2 align="center">🎖️🎖️ Keep coding, keep learning — the bugs will fear you one day 🎖️🎖️</h2>
+<h2 align="center">🎖️ C teaches you how computers really think 🎖️</h2>
