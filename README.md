@@ -20,4 +20,4 @@ The program manages basic student information using structs. For more complex im
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Yellowline.jpg?raw=true" width="1200" height="4" />
 </p>
 
-<h2 align="center">🎖️ C teaches you how computers really think 🎖️</h2>
+<h2 align="center">🎖️ C Teaches You How Computers Really Think 🎖️</h2>
